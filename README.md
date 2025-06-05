@@ -116,7 +116,3 @@ Have a new pattern to add? Fork this repo, create a new folder, and open a PR!
 
 ```
 
----
-
-Let me know if you'd like this pushed to a file (`README.md`) or want individual badges (build, version, coverage, etc.) included.
-```

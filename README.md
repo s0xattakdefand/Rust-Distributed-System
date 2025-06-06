@@ -1,4 +1,4 @@
-**User-Based Sharding, Consistent Hashing, Gossip Protocol, Heartbeat Health Check**, and more.
+[**User-Based Sharding, Consistent Hashing, Gossip Protocol, Heartbeat Health Check**, and more.
 
 ---
 
@@ -98,7 +98,7 @@ cargo run
 **Paul Seng**
 Distributed Systems Engineer | Web3 Security Researcher
 Founder of `s0xattakdefand` — Stealth-mode security lab
-GitHub: [[@Seng Keat](https://github.com/s0xattakdefand)
+GitHub: https://github.com/s0xattakdefand
 
 ---
 
@@ -116,3 +116,4 @@ Have a new pattern to add? Fork this repo, create a new folder, and open a PR!
 
 ```
 
+](https://github.com/s0xattakdefand)

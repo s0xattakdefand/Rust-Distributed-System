@@ -1,0 +1,1 @@
+/mnt/c/Users/RMT/Documents/vscodium/L4-rust-distributed-system-patterns/quorum-majority-voting/quorum_voting/target/release/quorum_voting: /mnt/c/Users/RMT/Documents/vscodium/L4-rust-distributed-system-patterns/quorum-majority-voting/quorum_voting/src/main.rs

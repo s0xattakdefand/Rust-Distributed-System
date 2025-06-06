@@ -98,7 +98,7 @@ cargo run
 **Paul Seng**
 Distributed Systems Engineer | Web3 Security Researcher
 Founder of `s0xattakdefand` — Stealth-mode security lab
-GitHub: [@PaulSeng](https://github.com/PaulSeng)
+GitHub: [[@Seng Keat](https://github.com/s0xattakdefand)
 
 ---
 

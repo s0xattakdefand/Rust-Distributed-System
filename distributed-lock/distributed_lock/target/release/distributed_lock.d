@@ -1,0 +1,1 @@
+/mnt/c/Users/RMT/Documents/vscodium/L4-rust-distributed-system-patterns/distributed-lock/distributed_lock/target/release/distributed_lock: /mnt/c/Users/RMT/Documents/vscodium/L4-rust-distributed-system-patterns/distributed-lock/distributed_lock/src/main.rs

@@ -66,4 +66,3 @@ Instead of asking everyone, you just need **enough friends to agree** to decide.
 
 ---
 
-Let me know if you want a **code implementation** of each quorum type — I can simulate them in Rust with real-world examples.

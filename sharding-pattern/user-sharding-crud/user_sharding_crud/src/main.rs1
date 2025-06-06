@@ -1,0 +1,28 @@
+mod api;
+mod model;
+mod shard;
+
+use axum::{routing::{get, post, put, delete}, Router};
+use std::{collections::HashMap, net::SocketAddr, sync::Arc};
+use tokio::sync::Mutex;
+use api::{add_user, get_user, update_user, delete_user, get_users, ShardStorage};
+use tower_http::services::ServeDir;
+
+#[tokio::main]
+async fn main() {
+    let storage: ShardStorage = Arc::new(Mutex::new(HashMap::new()));
+
+    let app = Router::new()
+        .route("/add_user/:id/:name", post(add_user))
+        .route("/get_user/:id", get(get_user))
+        .route("/update_user/:id/:name", put(update_user))
+        .route("/delete_user/:id", delete(delete_user))
+        .route("/get_users/:shard_id", get(get_users))
+        .with_state(storage);
+
+    let addr: SocketAddr = "127.0.0.1:4000".parse().unwrap();
+    println!("🚀 User-Based Sharding API on {}", addr);
+    axum::serve(tokio::net::TcpListener::bind(addr).await.unwrap(), app)
+        .await
+        .unwrap();
+}

@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/mnt/c/Users/RMT/Documents/vscodium/L4-rust-distributed-system-patterns/sharding-pattern/user-sharding-crud/user_sharding_crud/target/release/build/mime_guess-80d295c03edaaaaa/out/mime_types_generated.rs

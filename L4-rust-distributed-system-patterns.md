@@ -55,10 +55,3 @@ Imagine you and your friends are playing with blocks and toys in different rooms
 
 ---
 
-Would you like:
-
-* 🧠 Sample Rust code for 3 of these patterns?
-* 📦 Project scaffold with Axum or Tokio?
-* 🗺️ Architectural diagram to design your system from scratch?
-
-Let me know how deep you'd like to go!

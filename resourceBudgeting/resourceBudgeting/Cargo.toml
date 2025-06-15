@@ -1,0 +1,10 @@
+[package]
+name = "resource_budgeting"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.7"
+tokio = { version = "1.37", features = ["full"] }
+prometheus = "0.14"
+lazy_static = "1.4"

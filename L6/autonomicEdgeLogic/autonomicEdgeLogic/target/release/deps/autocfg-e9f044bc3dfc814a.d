@@ -1,0 +1,10 @@
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/L6/autonomicEdgeLogic/autonomicEdgeLogic/target/release/deps/libautocfg-e9f044bc3dfc814a.rmeta: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/L6/autonomicEdgeLogic/autonomicEdgeLogic/target/release/deps/libautocfg-e9f044bc3dfc814a.rlib: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/L6/autonomicEdgeLogic/autonomicEdgeLogic/target/release/deps/autocfg-e9f044bc3dfc814a.d: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs:

@@ -122,7 +122,7 @@ Modern systems need resilience, speed, and modularity. This repo:
 
 ## 🧠 Author & Maintainer
 
-**Seng Keat Aka Paul Seng**
+**Seng Keat Aka Paul Seng && Jonathan Seng Aka Panhavath**
 Distributed Systems Engineer | Web3 Security Researcher
 Founder of `s0xattakdefand` — Stealth-mode security lab
 GitHub: https://github.com/s0xattakdefand

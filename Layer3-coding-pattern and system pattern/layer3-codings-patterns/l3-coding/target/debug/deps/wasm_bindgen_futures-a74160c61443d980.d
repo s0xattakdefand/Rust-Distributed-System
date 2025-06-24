@@ -1,0 +1,7 @@
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/Layer3-coding-pattern and system pattern/layer3-system-patterns/l3-coding/target/debug/deps/libwasm_bindgen_futures-a74160c61443d980.rmeta: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/queue.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/Layer3-coding-pattern and system pattern/layer3-system-patterns/l3-coding/target/debug/deps/wasm_bindgen_futures-a74160c61443d980.d: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/queue.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs
+
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/lib.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/queue.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasm-bindgen-futures-0.4.50/src/task/singlethread.rs:

@@ -1,0 +1,8 @@
+[package]
+name    = "saga"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow      = "1"
+tokio-test  = "0.4"    # lightweight runtime for block_on in tests

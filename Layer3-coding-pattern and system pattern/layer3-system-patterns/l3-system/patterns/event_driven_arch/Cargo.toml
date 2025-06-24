@@ -1,0 +1,10 @@
+[package]
+name = "event_driven_arch"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+async-nats = "0.35"
+tokio      = { version = "1", features = ["rt", "macros"] }
+anyhow     = "1"
+

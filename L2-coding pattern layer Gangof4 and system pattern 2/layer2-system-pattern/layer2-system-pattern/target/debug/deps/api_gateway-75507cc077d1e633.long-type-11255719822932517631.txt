@@ -1,0 +1,1 @@
+axum::middleware::FromFn<fn(Cookies, Next) -> impl Future<Output = impl axum::response::IntoResponse> {jwt_guard}, (), Route, _>

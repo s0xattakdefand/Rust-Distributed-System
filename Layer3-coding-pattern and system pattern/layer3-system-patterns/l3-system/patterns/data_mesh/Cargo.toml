@@ -1,0 +1,13 @@
+[package]
+name    = "data_mesh"
+version = "0.1.0"
+edition = "2021"
+build   = "build.rs"
+
+[dependencies]
+prost        = "0.12"
+prost-types  = "0.12"
+anyhow       = "1"
+
+[build-dependencies]          # ← add this section
+prost-build   = "0.12"

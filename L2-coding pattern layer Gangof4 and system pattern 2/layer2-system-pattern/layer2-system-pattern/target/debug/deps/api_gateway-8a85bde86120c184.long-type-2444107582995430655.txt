@@ -1,0 +1,1 @@
+axum::middleware::FromFn<fn(tower_cookies::Cookies, axum::middleware::Next) -> impl std::future::Future<Output = impl axum::response::IntoResponse> {jwt_guard}, (), axum::routing::Route, _>: tower::Service<axum::http::Request<axum::body::Body>>

@@ -1,0 +1,1 @@
+std::pin::Pin<std::boxed::Box<(dyn futures_util::Future<Output = std::result::Result<Res, anyhow::Error>> + std::marker::Send + 'static)>>

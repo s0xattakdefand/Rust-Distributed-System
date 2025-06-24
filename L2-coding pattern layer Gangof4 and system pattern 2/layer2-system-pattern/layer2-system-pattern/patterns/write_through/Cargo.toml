@@ -1,0 +1,8 @@
+[package]
+name    = "write_through"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio        = { version = "1", features = ["rt", "macros", "sync"] }
+cache_aside  = { path = "../cache_aside" }   # workspace sibling crate

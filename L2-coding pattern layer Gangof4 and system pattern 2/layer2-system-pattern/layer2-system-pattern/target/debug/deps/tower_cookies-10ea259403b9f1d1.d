@@ -1,0 +1,8 @@
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/L2-layer Gangof4/layer2-system-pattern/layer2-system-pattern/target/debug/deps/libtower_cookies-10ea259403b9f1d1.rmeta: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/extract.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/service/mod.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/service/future.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/L2-layer Gangof4/layer2-system-pattern/layer2-system-pattern/target/debug/deps/tower_cookies-10ea259403b9f1d1.d: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/extract.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/service/mod.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/service/future.rs
+
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/lib.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/extract.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/service/mod.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-cookies-0.10.0/src/service/future.rs:

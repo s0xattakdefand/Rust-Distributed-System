@@ -1,0 +1,7 @@
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/L2-layer Gangof4/layer2-gang/gof-rust/target/debug/deps/libproxy-391201fb49cd8825.rmeta: patterns/proxy/src/lib.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/L2-layer Gangof4/layer2-gang/gof-rust/target/debug/deps/libproxy-391201fb49cd8825.rlib: patterns/proxy/src/lib.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/L2-layer Gangof4/layer2-gang/gof-rust/target/debug/deps/proxy-391201fb49cd8825.d: patterns/proxy/src/lib.rs
+
+patterns/proxy/src/lib.rs:

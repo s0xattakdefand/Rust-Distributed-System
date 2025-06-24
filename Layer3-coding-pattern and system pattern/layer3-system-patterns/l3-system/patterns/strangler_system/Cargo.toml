@@ -1,0 +1,12 @@
+[package]
+name = "strangler_system"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tower   = "0.4"
+hyper   = { version = "1.6", features = ["http1"] }
+http    = "1"
+anyhow  = "1"
+tokio   = { version = "1", features = ["rt", "macros"] }
+

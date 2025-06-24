@@ -1,0 +1,9 @@
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/L2-layer Gangof4/layer2-system-pattern/layer2-system-pattern/target/debug/deps/libidempotent_receiver-b1ced65f38cfeee7.rmeta: patterns/idempotent_receiver/src/lib.rs Cargo.toml
+
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/L2-layer Gangof4/layer2-system-pattern/layer2-system-pattern/target/debug/deps/idempotent_receiver-b1ced65f38cfeee7.d: patterns/idempotent_receiver/src/lib.rs Cargo.toml
+
+patterns/idempotent_receiver/src/lib.rs:
+Cargo.toml:
+
+# env-dep:CLIPPY_ARGS=-D__CLIPPY_HACKERY__warnings__CLIPPY_HACKERY__
+# env-dep:CLIPPY_CONF_DIR

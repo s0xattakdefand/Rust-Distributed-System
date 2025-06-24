@@ -1,0 +1,10 @@
+[package]
+name = "data_pipeline"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+arrow    = "52"
+parquet  = "52"
+anyhow   = "1"
+

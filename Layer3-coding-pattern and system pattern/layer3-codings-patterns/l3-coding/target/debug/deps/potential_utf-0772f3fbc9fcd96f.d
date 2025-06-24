@@ -1,0 +1,7 @@
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/Layer3-coding-pattern and system pattern/layer3-system-patterns/l3-coding/target/debug/deps/libpotential_utf-0772f3fbc9fcd96f.rmeta: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/potential_utf-0.1.2/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/potential_utf-0.1.2/src/uchar.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/potential_utf-0.1.2/src/ustr.rs
+
+/mnt/c/Users/RMT/Documents/vscodium/L5-Cloud-native-orchestrator-components/Layer3-coding-pattern and system pattern/layer3-system-patterns/l3-coding/target/debug/deps/potential_utf-0772f3fbc9fcd96f.d: /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/potential_utf-0.1.2/src/lib.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/potential_utf-0.1.2/src/uchar.rs /home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/potential_utf-0.1.2/src/ustr.rs
+
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/potential_utf-0.1.2/src/lib.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/potential_utf-0.1.2/src/uchar.rs:
+/home/sengkeat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/potential_utf-0.1.2/src/ustr.rs:
